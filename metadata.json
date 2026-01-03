@@ -1,0 +1,7 @@
+{
+  "name": "Kisan Saathi - Farmer Companion",
+  "description": "A comprehensive mobile-first application for Indian farmers featuring weather updates, mandi market prices, and farm record management with support for regional languages.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
